@@ -1,0 +1,6 @@
+artifact_location: file:///D:/Langchain/MLflow_test/mlruns/983344284482874088
+creation_time: 1745829084397
+experiment_id: '983344284482874088'
+last_update_time: 1745829084397
+lifecycle_stage: active
+name: Bedrock-QnA-Experiment

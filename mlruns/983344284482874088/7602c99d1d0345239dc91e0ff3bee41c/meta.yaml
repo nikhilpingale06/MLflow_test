@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Langchain/MLflow_test/mlruns/983344284482874088/7602c99d1d0345239dc91e0ff3bee41c/artifacts
+end_time: 1745829423395
+entry_point_name: ''
+experiment_id: '983344284482874088'
+lifecycle_stage: active
+run_id: 7602c99d1d0345239dc91e0ff3bee41c
+run_name: sedate-dolphin-165
+run_uuid: 7602c99d1d0345239dc91e0ff3bee41c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745829422035
+status: 3
+tags: []
+user_id: Nikhil

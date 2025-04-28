@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Langchain/MLflow_test/mlruns/983344284482874088/56e954d370724d5fa2351afd55cdf67b/artifacts
+end_time: 1745829088485
+entry_point_name: ''
+experiment_id: '983344284482874088'
+lifecycle_stage: active
+run_id: 56e954d370724d5fa2351afd55cdf67b
+run_name: nervous-boar-467
+run_uuid: 56e954d370724d5fa2351afd55cdf67b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745829087018
+status: 3
+tags: []
+user_id: Nikhil

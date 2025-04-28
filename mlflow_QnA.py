@@ -27,7 +27,7 @@ def ask_bedrock(question):
 if __name__ == "__main__":
     mlflow.set_experiment("Bedrock-QnA-Experiment")
     
-    question = "What is the capital of France?"
+    question = "What is the capital of India?"
     with mlflow.start_run():
         answer = ask_bedrock(question)
         print("Answer from Bedrock:", answer)
