@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Langchain/MLflow_test/mlruns/983344284482874088/85e3e5b53ab549f3a9b84b1d7ce34c41/artifacts
+end_time: 1746600606502
+entry_point_name: ''
+experiment_id: '983344284482874088'
+lifecycle_stage: active
+run_id: 85e3e5b53ab549f3a9b84b1d7ce34c41
+run_name: welcoming-steed-506
+run_uuid: 85e3e5b53ab549f3a9b84b1d7ce34c41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746600604461
+status: 3
+tags: []
+user_id: Nikhil
